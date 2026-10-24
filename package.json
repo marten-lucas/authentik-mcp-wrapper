@@ -1,13 +1,13 @@
 {
-  "name": "authentik-mcp-wrapper",
-  "version": "0.1.0",
-  "private": true,
-  "type": "module",
-  "description": "SSE/HTTP wrapper image for the official Authentik MCP servers",
-  "dependencies": {
-    "@cdmx/authentik-diag-mcp": "0.1.1",
-    "@cdmx/authentik-mcp": "0.1.1",
-    "@modelcontextprotocol/sdk": "^1.30.0",
-    "express": "^5.2.1"
-  }
+    "name": "authentik-mcp-wrapper",
+    "version": "0.1.0",
+    "private": true,
+    "type": "module",
+    "description": "SSE/HTTP wrapper image for the official Authentik MCP servers",
+    "dependencies": {
+        "@cdmx/authentik-diag-mcp": "0.1.1",
+        "@cdmx/authentik-mcp": "0.1.1",
+        "@modelcontextprotocol/sdk": "^1.30.0",
+        "express": "^5.2.1"
+    }
 }
